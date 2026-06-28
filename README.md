@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/awasthi-1425/leetcode/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/awasthi-1425/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/awasthi-1425/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/awasthi-1425/leetcode/tree/master/0210-course-schedule-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/awasthi-1425/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/awasthi-1425/leetcode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/awasthi-1425/leetcode/tree/master/0079-word-search) |
 | [0399-evaluate-division](https://github.com/awasthi-1425/leetcode/tree/master/0399-evaluate-division) |
 | [0909-snakes-and-ladders](https://github.com/awasthi-1425/leetcode/tree/master/0909-snakes-and-ladders) |
 ## String
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/awasthi-1425/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/awasthi-1425/leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/awasthi-1425/leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/awasthi-1425/leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/awasthi-1425/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/awasthi-1425/leetcode/tree/master/0399-evaluate-division) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/awasthi-1425/leetcode/tree/master/0079-word-search) |
 | [0909-snakes-and-ladders](https://github.com/awasthi-1425/leetcode/tree/master/0909-snakes-and-ladders) |
 ## Design
 |  |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/awasthi-1425/leetcode/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/awasthi-1425/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/awasthi-1425/leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/awasthi-1425/leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
