@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/awasthi-1425/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/awasthi-1425/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/awasthi-1425/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/awasthi-1425/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/awasthi-1425/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/awasthi-1425/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/awasthi-1425/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/awasthi-1425/leetcode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/awasthi-1425/leetcode/tree/master/0079-word-search) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/awasthi-1425/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0399-evaluate-division](https://github.com/awasthi-1425/leetcode/tree/master/0399-evaluate-division) |
 | [0909-snakes-and-ladders](https://github.com/awasthi-1425/leetcode/tree/master/0909-snakes-and-ladders) |
 ## String
@@ -107,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/awasthi-1425/leetcode/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/awasthi-1425/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/awasthi-1425/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
