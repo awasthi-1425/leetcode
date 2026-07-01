@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/awasthi-1425/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/awasthi-1425/leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/awasthi-1425/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [1871-jump-game-vii](https://github.com/awasthi-1425/leetcode/tree/master/1871-jump-game-vii) |
 ## Union-Find
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/awasthi-1425/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1871-jump-game-vii](https://github.com/awasthi-1425/leetcode/tree/master/1871-jump-game-vii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/awasthi-1425/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/awasthi-1425/leetcode/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/awasthi-1425/leetcode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
