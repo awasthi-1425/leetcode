@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/awasthi-1425/leetcode/tree/master/0399-evaluate-division) |
 | [0909-snakes-and-ladders](https://github.com/awasthi-1425/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3620-network-recovery-pathways](https://github.com/awasthi-1425/leetcode/tree/master/3620-network-recovery-pathways) |
 ## String
 |  |
 | ------- |
@@ -84,15 +85,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/awasthi-1425/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/awasthi-1425/leetcode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/awasthi-1425/leetcode/tree/master/0399-evaluate-division) |
+| [3620-network-recovery-pathways](https://github.com/awasthi-1425/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/awasthi-1425/leetcode/tree/master/0399-evaluate-division) |
+| [3620-network-recovery-pathways](https://github.com/awasthi-1425/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/awasthi-1425/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/awasthi-1425/leetcode/tree/master/0210-course-schedule-ii) |
+| [3620-network-recovery-pathways](https://github.com/awasthi-1425/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1871-jump-game-vii](https://github.com/awasthi-1425/leetcode/tree/master/1871-jump-game-vii) |
+| [3620-network-recovery-pathways](https://github.com/awasthi-1425/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/awasthi-1425/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/awasthi-1425/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/awasthi-1425/leetcode/tree/master/0162-find-peak-element) |
+| [3620-network-recovery-pathways](https://github.com/awasthi-1425/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/awasthi-1425/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/awasthi-1425/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3620-network-recovery-pathways](https://github.com/awasthi-1425/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Merge Sort
 |  |
 | ------- |
