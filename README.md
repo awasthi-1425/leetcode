@@ -181,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/awasthi-1425/leetcode/tree/master/1871-jump-game-vii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/awasthi-1425/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
