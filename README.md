@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/awasthi-1425/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/awasthi-1425/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/awasthi-1425/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Heap (Priority Queue)
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/awasthi-1425/leetcode/tree/master/0946-validate-stack-sequences) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/awasthi-1425/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
