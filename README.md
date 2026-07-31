@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/awasthi-1425/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/awasthi-1425/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/awasthi-1425/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/awasthi-1425/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/awasthi-1425/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/awasthi-1425/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/awasthi-1425/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/awasthi-1425/leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/awasthi-1425/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [1871-jump-game-vii](https://github.com/awasthi-1425/leetcode/tree/master/1871-jump-game-vii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/awasthi-1425/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -211,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/awasthi-1425/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/awasthi-1425/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/awasthi-1425/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
