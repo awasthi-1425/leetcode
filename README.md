@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/awasthi-1425/leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/awasthi-1425/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/awasthi-1425/leetcode/tree/master/0399-evaluate-division) |
+| [0877-stone-game](https://github.com/awasthi-1425/leetcode/tree/master/0877-stone-game) |
 | [0909-snakes-and-ladders](https://github.com/awasthi-1425/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/awasthi-1425/leetcode/tree/master/0946-validate-stack-sequences) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/awasthi-1425/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/awasthi-1425/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1871-jump-game-vii](https://github.com/awasthi-1425/leetcode/tree/master/1871-jump-game-vii) |
 | [3620-network-recovery-pathways](https://github.com/awasthi-1425/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -222,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/awasthi-1425/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/awasthi-1425/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/awasthi-1425/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
