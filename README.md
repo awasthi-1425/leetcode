@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/awasthi-1425/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/awasthi-1425/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/awasthi-1425/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0938-range-sum-of-bst](https://github.com/awasthi-1425/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/awasthi-1425/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/awasthi-1425/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/awasthi-1425/leetcode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/awasthi-1425/leetcode/tree/master/0399-evaluate-division) |
+| [0938-range-sum-of-bst](https://github.com/awasthi-1425/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/awasthi-1425/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/awasthi-1425/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/awasthi-1425/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/awasthi-1425/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0938-range-sum-of-bst](https://github.com/awasthi-1425/leetcode/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/awasthi-1425/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Array
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/awasthi-1425/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/awasthi-1425/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/awasthi-1425/leetcode/tree/master/0162-find-peak-element) |
+| [0938-range-sum-of-bst](https://github.com/awasthi-1425/leetcode/tree/master/0938-range-sum-of-bst) |
 | [3620-network-recovery-pathways](https://github.com/awasthi-1425/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
