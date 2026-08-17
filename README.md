@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/awasthi-1425/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/awasthi-1425/leetcode/tree/master/0946-validate-stack-sequences) |
+| [1563-stone-game-v](https://github.com/awasthi-1425/leetcode/tree/master/1563-stone-game-v) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/awasthi-1425/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3620-network-recovery-pathways](https://github.com/awasthi-1425/leetcode/tree/master/3620-network-recovery-pathways) |
 ## String
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/awasthi-1425/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1563-stone-game-v](https://github.com/awasthi-1425/leetcode/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/awasthi-1425/leetcode/tree/master/1871-jump-game-vii) |
 | [3620-network-recovery-pathways](https://github.com/awasthi-1425/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
@@ -243,8 +245,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/awasthi-1425/leetcode/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/awasthi-1425/leetcode/tree/master/1563-stone-game-v) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/awasthi-1425/leetcode/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/awasthi-1425/leetcode/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
