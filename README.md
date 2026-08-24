@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/awasthi-1425/leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/awasthi-1425/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [1871-jump-game-vii](https://github.com/awasthi-1425/leetcode/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/awasthi-1425/leetcode/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/awasthi-1425/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Union-Find
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/awasthi-1425/leetcode/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/awasthi-1425/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -248,9 +250,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/awasthi-1425/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/awasthi-1425/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/awasthi-1425/leetcode/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/awasthi-1425/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/awasthi-1425/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/awasthi-1425/leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
