@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/awasthi-1425/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/awasthi-1425/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/awasthi-1425/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/awasthi-1425/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/awasthi-1425/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/awasthi-1425/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/awasthi-1425/leetcode/tree/master/0938-range-sum-of-bst) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/awasthi-1425/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/awasthi-1425/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/awasthi-1425/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/awasthi-1425/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/awasthi-1425/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/awasthi-1425/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/awasthi-1425/leetcode/tree/master/0210-course-schedule-ii) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/awasthi-1425/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/awasthi-1425/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/awasthi-1425/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/awasthi-1425/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/awasthi-1425/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/awasthi-1425/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0938-range-sum-of-bst](https://github.com/awasthi-1425/leetcode/tree/master/0938-range-sum-of-bst) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/awasthi-1425/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/awasthi-1425/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/awasthi-1425/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1563-stone-game-v](https://github.com/awasthi-1425/leetcode/tree/master/1563-stone-game-v) |
@@ -265,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/awasthi-1425/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/awasthi-1425/leetcode/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/awasthi-1425/leetcode/tree/master/1927-sum-game) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/awasthi-1425/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
