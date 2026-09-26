@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/awasthi-1425/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0433-minimum-genetic-mutation](https://github.com/awasthi-1425/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/awasthi-1425/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/awasthi-1425/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/awasthi-1425/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/awasthi-1425/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/awasthi-1425/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/awasthi-1425/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1563-stone-game-v](https://github.com/awasthi-1425/leetcode/tree/master/1563-stone-game-v) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/awasthi-1425/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/awasthi-1425/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/awasthi-1425/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3620-network-recovery-pathways](https://github.com/awasthi-1425/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/awasthi-1425/leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/awasthi-1425/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0940-distinct-subsequences-ii](https://github.com/awasthi-1425/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/awasthi-1425/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/awasthi-1425/leetcode/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/awasthi-1425/leetcode/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/awasthi-1425/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
