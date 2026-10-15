@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/awasthi-1425/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/awasthi-1425/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0509-fibonacci-number](https://github.com/awasthi-1425/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/awasthi-1425/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/awasthi-1425/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/awasthi-1425/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/awasthi-1425/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/awasthi-1425/leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/awasthi-1425/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/awasthi-1425/leetcode/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/awasthi-1425/leetcode/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/awasthi-1425/leetcode/tree/master/1927-sum-game) |
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/awasthi-1425/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/awasthi-1425/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
